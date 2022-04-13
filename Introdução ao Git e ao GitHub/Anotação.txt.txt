@@ -1,0 +1,3 @@
+Link para dowload do gir: https://git-scm.com/downloads
+
+O git Bach é um terminal estendido para otimizar o git
